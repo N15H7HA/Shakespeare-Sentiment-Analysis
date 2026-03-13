@@ -1,0 +1,59 @@
+Sno,Act,Scene,Dialogue,ground_truth
+1,1,3,Do you doubt that?,Neutral
+2,1,3,No more but so?,surprise
+3,1,3,"I shall th' effect of this good lesson keep As watchman to my heart. But, good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven, Whiles, like a puff'd and reckless libertine, Himself the primrose path of dalliance treads And recks not his own rede.",Anger
+4,1,3,"Tis in my memory lock'd, And you yourself shall keep the key of it.",Neutral
+5,1,3,"So please you, something touching the Lord Hamlet.",Disgust
+6,1,3,"He hath, my lord, of late made many tenders Of his affection to me.",Neutral
+7,1,3,"I do not know, my lord, what I should think,",Surprise
+8,1,3,"My lord, he hath importun'd me with love In honourable fashion.",anger
+9,1,3,"And hath given countenance to his speech, my lord, With almost all the holy vows of heaven.",Disgust
+10,1,3,"I shall obey, my lord.",Anger
+11,2,1,"O my lord, my lord, I have been so affrighted!",fear
+12,2,1,"My lord, as I was sewing in my closet, Lord Hamlet, with his doublet all unbrac'd, No hat upon his head, his stockings foul'd, Ungart'red, and down-gyved to his ankle; Pale as his shirt, his knees knocking each other, And with a look so piteous in purport As if he had been loosed out of hell To speak of horrors- he comes before me.",Fear
+13,2,1,"My lord, I do not know, But truly I do fear it.",Fear
+14,2,1,"He took me by the wrist and held me hard; Then goes he to the length of all his arm, And, with his other hand thus o'er his brow, He falls to such perusal of my face As he would draw it. Long stay'd he so. At last, a little shaking of mine arm, And thrice his head thus waving up and down, He rais'd a sigh so piteous and profound As it did seem to shatter all his bulk And end his being. That done, he lets me go, And with his head over his shoulder turn'd He seem'd to find his way without his eyes, For out o' doors he went without their help And to the last bended their light on me.",Fear
+15,2,1,"No, my good lord; but, as you did command, I did repel his letters and denied His access to me.",Disgust
+16,3,1,"Madam, I wish it may.",Sadness
+17,3,1,"Good my lord, How does your honour for this many a day?",Surprise
+18,3,1,"My lord, I have remembrances of yours That I have longed long to re-deliver. I pray you, now receive them.",sadness
+19,3,1,"My honour'd lord, you know right well you did, And with them words of so sweet breath compos'd As made the things more rich. Their perfume lost, Take these again; for to the noble mind Rich gifts wax poor when givers prove unkind. There, my lord.",Anger
+20,3,1,My lord?,Surprise
+21,3,1,What means your lordship?,surprise
+22,3,1,"Could beauty, my lord, have better commerce than with honesty?",surprise
+23,3,1,"Indeed, my lord, you made me believe so.",Surprise
+24,3,1,I was the more deceived.,sadness
+25,3,1,"At home, my lord.",Neutral
+26,3,1,"O, help him, you sweet heavens!",Anger
+27,3,1,"O heavenly powers, restore him!",Anger
+28,3,1,"O, what a noble mind is here o'erthrown! The courtier's, scholar's, soldier's, eye, tongue, sword, Th' expectancy and rose of the fair state, The glass of fashion and the mould of form, Th' observ'd of all observers- quite, quite down! And I, of ladies most deject and wretched, That suck'd the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled, out of tune and harsh; That unmatch'd form and feature of blown youth Blasted with ecstasy. O, woe is me T' have seen what I have seen, see what I see!",Disgust
+29,3,2,"No, my lord.",Fear
+30,3,2,"Ay, my lord.",Fear
+31,3,2,"I think nothing, my lord.",Surprise
+32,3,2,"What is, my lord?",Surprise
+33,3,2,"You are merry, my lord.",Joy
+34,3,2,"Ay, my lord.",neutral
+35,3,2,"Nay 'tis twice two months, my lord.",Neutral
+36,3,2,"What means this, my lord?",Surprise
+37,3,2,Belike this show imports the argument of the play.,Neutral
+38,3,2,Will he tell us what this show meant?,surprise
+39,3,2,"You are naught, you are naught! I'll mark the play. Pro. For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently. ",Neutral
+40,3,2,"Tis brief, my lord.",Neutral
+41,3,2,"You are as good as a chorus, my lord.",Neutral
+42,3,2,"You are keen, my lord, you are keen.",surprise
+43,3,2,"Still better, and worse.",Sadness
+44,3,2,The King rises.,Neutral
+45,4,5,Where is the beauteous Majesty of Denmark?,surprise
+46,4,5,"How should I your true-love know From another one? By his cockle bat and' staff And his sandal shoon.",sadness
+47,4,5,"Say you? Nay, pray You mark. He is dead and gone, lady, He is dead and gone; At his head a grass-green turf, At his heels a stone. O, ho!",Disgust
+48,4,5,"Pray you mark. White his shroud as the mountain snow-",sadness
+49,4,5,"Larded all with sweet flowers; Which bewept to the grave did not go With true-love showers.",sadness
+50,4,5,"Well, God dild you! They say the owl was a baker's daughter. Lord, we know what we are, but know not what we may be. God be at your table!",Disgust
+51,4,5,"Pray let's have no words of this; but when they ask, you what it means, say you this: To-morrow is Saint Valentine's day, All in the morning bedtime, And I a maid at your window, To be your Valentine. Then up he rose and donn'd his clo'es And dupp'd the chamber door, Let in the maid, that out a maid Never departed more.",Neutral
+52,4,5,"Indeed, la, without an oath, I'll make an end on't! By Gis and by Saint Charity, Alack, and fie for shame! Young men will do't if they come to't By Cock, they are to blame. Quoth she, 'Before you tumbled me, You promis'd me to wed.' He answers: 'So would I 'a' done, by yonder sun, An thou hadst not come to my bed.'",Anger
+53,4,5,"I hope all will be well. We must be patient; but I cannot choose but weep to think they would lay him i' th' cold ground. My brother shall know of it; and so I thank you for your good counsel. Come, my coach! Good night, ladies. Good night, sweet ladies. Good night, good night. Exit",Sadness
+54,4,5,"They bore him barefac'd on the bier (Hey non nony, nony, hey nony) And in his grave rain'd many a tear. Fare you well, my dove!",Sadness
+55,4,5,"You must sing 'A-down a-down, and you call him a-down-a.' O, how the wheel becomes it! It is the false steward, that stole his master's daughter.",Anger
+56,4,5,"There's rosemary, that's for remembrance. Pray you, love, remember. And there is pansies, that's for thoughts.",Neutral
+57,4,5,"There's fennel for you, and columbines. There's rue for you, and here's some for me. We may call it herb of grace o' Sundays. O, you must wear your rue with a difference! There's a daisy. I would give you some violets, but they wither'd all when my father died. They say he made a good end. For bonny sweet Robin is all my joy.",Sadness
+58,4,5,"And will he not come again? And will he not come again? No, no, he is dead; Go to thy deathbed; He never will come again. His beard was as white as snow, All flaxen was his poll. He is gone, he is gone, And we cast away moan. God 'a'mercy on his soul! And of all Christian souls, I pray God. God b' wi' you.",Anger
